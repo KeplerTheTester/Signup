@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Signup</string>
+
+    <string-array name="Sign_up_pages">
+        <item>Kid's choir</item>
+        <item>Adult's choir</item>
+        <item>Sunday School</item>
+    </string-array>
+
+</resources>
